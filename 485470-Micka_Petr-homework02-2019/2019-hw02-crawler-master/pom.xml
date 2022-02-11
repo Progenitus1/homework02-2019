@@ -17,7 +17,7 @@
         <version.assertj>3.13.2</version.assertj>
         <version.commons-lang3>3.4</version.commons-lang3>
         <version.okhttp>4.1.0</version.okhttp>
-        <version.vertx>3.8.3</version.vertx>
+        <version.vertx>3.9.4</version.vertx>
         <checkstyle.fail>false</checkstyle.fail>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
